@@ -66,8 +66,9 @@ void loop() {
   display.display();
   delay(2000);
 }
-## Project Demo Video
-[Project functional demonstration video] https://youtube.com/shorts/-LNNiSevfIE?si=d_HwxFBNg7atz6nh
+## [Project functional demonstration video]
+https://www.youtube.com/shorts/-LNNiSevfIE?si=d_HwxFBNg7atz6nh
+
 
 
 
