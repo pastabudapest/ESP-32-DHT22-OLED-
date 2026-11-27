@@ -68,5 +68,6 @@ void loop() {
 }
 ## Project Demo Video
 [Project functional demonstration video] https://youtube.com/shorts/-LNNiSevfIE?si=d_HwxFBNg7atz6nh
+[Click here to watch project demonstration](https://www.youtube.com/shorts/-LNNiSevfIE?si=vu5QH4xUiGq77kCn)
 
 
