@@ -67,7 +67,7 @@ void loop() {
   delay(2000);
 }
 ## [Project functional demonstration video]
-https://www.youtube.com/shorts/-LNNiSevfIE?si=d_HwxFBNg7atz6nh
+https://www.youtube.com/shorts/-LNNiSevfIE?si=d_HwxFBNg7atz6nh****
 
 
 
